@@ -1,11 +1,11 @@
 h1{
-    background: linear-gradient(to bottom right, red, white, green);
     color: Black;
     position: center;
     text-align: center;
     font-family: 'Italianno', cursive;
     font-size: 50px;
 }
+
 h2{
     font-family: 'Italianno', cursive;
 }
@@ -17,4 +17,12 @@ img{
     border: 2px solid;
     color: black;
 }
+p{
+    border-color: whitesmoke;
 
+}
+
+body{
+    background: linear-gradient(green, white, red);
+
+}
