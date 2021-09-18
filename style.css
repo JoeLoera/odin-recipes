@@ -6,6 +6,9 @@ h1{
     font-family: 'Italianno', cursive;
     font-size: 50px;
 }
+h2{
+    font-family: 'Italianno', cursive;
+}
 
 img{
     background-size: 150px;
@@ -14,3 +17,4 @@ img{
     border: 2px solid;
     color: black;
 }
+
